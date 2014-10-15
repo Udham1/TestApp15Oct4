@@ -109,8 +109,8 @@
     <Compile Include="TestApp15Oct4ViewController.designer.cs">
       <DependentUpon>TestApp15Oct4ViewController.cs</DependentUpon>
     </Compile>
-    <Compile Include="EmptyClass_Renamed.cs" />
     <Compile Include="AppDelegate1.cs" />
+    <Compile Include="EmptyClass_Redfdsfsnamed.cs" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="MainStoryboard.storyboard" />
