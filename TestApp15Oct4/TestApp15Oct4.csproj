@@ -104,13 +104,13 @@
     <None Include="Entitlements.plist" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Main.cs" />
     <Compile Include="TestApp15Oct4ViewController.cs" />
     <Compile Include="TestApp15Oct4ViewController.designer.cs">
       <DependentUpon>TestApp15Oct4ViewController.cs</DependentUpon>
     </Compile>
     <Compile Include="AppDelegate1.cs" />
     <Compile Include="EmptyClass_Redfdsfsnamed.cs" />
+    <Compile Include="zxczczczc.cs" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="MainStoryboard.storyboard" />
