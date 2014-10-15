@@ -110,7 +110,7 @@
     <Compile Include="TestApp15Oct4ViewController.designer.cs">
       <DependentUpon>TestApp15Oct4ViewController.cs</DependentUpon>
     </Compile>
-    <Compile Include="EmptyClass.cs" />
+    <Compile Include="EmptyClass_Renamed.cs" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="MainStoryboard.storyboard" />
